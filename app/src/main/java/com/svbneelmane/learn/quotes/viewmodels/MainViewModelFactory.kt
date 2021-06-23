@@ -1,5 +1,8 @@
 package com.svbneelmane.learn.quotes.viewmodels
 
+/**
+ * ViewModelFactory class helps to provide the viewmodel class to UI with params
+ */
 import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
