@@ -17,6 +17,8 @@
 -   In Tasks: enter assemble
 -   Press Run
 
+Your debug apk will be generated at `<Project Name>/app/build/outputs/apk/debug/`
+
 ## API Details
 
 ### End point URL
