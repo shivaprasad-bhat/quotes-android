@@ -14,7 +14,7 @@
 -   Click the "+" Button
 -   Select "Gradle"
 -   Choose your module as a Gradle project
--   In Tasks: enter assemble
+-   In Tasks, enter `assemble`
 -   Press Run
 
 Your debug apk will be generated at `<Project Name>/app/build/outputs/apk/debug/`
